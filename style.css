@@ -1,0 +1,64 @@
+.navbar , .page ,h2 , h4{
+    font-family: "Monteressat" , sans-serif;
+}
+.navbar{
+    background-color: #f44336;
+    padding: 0%;
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 /16%), 0 2px 10px 0 rgb(0 0 0 /12%);
+    font: inherit;
+    font-family: "Montserrat",sans-serif;
+    font-size: 18px;
+}
+.nav-link{
+    color: white;
+    
+}
+.navbar-nav .nav-link.active, .nav-link:focus .nav-link:hover{
+    background-color: white;
+   
+}
+.page{
+    background-color: #f44336;
+    padding:109px 1px;
+    color: white;
+    font-family: "Monserrat", sans-serif;
+    font-size: 70PX;
+    padding-bottom: 5%;
+}
+h1{
+    font: menu;
+    font-family: inherit;
+   
+}
+p{
+    color: grey;
+}
+.img3{
+    width: 30px;
+    height: 30px;
+}
+.Section3{
+    background-color: dimgrey;
+    color: white;
+}
+.Section4{
+    background-color: whitesmoke;
+}
+h5{
+    font: inherit;
+    font-size: 18px;
+    color: black;
+}
+h4{
+    font-size: 24px;
+    font-family: "Lato",sans-serif;
+    margin-top: 2%;
+}
+.my-4 {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-size: 18px;
+    padding: 12px 24px;
+    border-radius: 0%;
+   padding-top: 16px;
+}
